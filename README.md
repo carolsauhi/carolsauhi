@@ -43,7 +43,7 @@ Sou motivada por aprender e desenvolver soluções que façam a diferença. Alé
 ## 📫 Entre em Contato  
 
 - **GitHub**: [carolsauhi](https://github.com/carolsauhi)  
-- **LinkedIn**: [Seu LinkedIn aqui]  
+- **LinkedIn**: [Carolina Sauhi Gomes](https://www.linkedin.com/in/carolina-sauhi-gomes/)
 - **Medium**: [medium.com/@carolsauhi](https://medium.com/@carolsauhi)  
 
 Obrigado por visitar meu portfólio! Sinta-se à vontade para explorar os projetos e entrar em contato comigo.
