@@ -6,6 +6,12 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação, com foco em desen
 
 ## 🚀 Principais Projetos  
 
+### [Desafio FrontEnd - Golden Raspberry Awards](https://github.com/carolsauhi/golden-raspberry-awards_front-end)
+Este projeto foi desenvolvido em Angular CLI para criar uma aplicação interativa com dois componentes principais: Dashboard e Movie List.
+
+### [Desafio API Restful - Golden Raspberry Awards](https://github.com/carolsauhi/golden-raspberry-awards_back-end)
+Este projeto é uma API RESTful desenvolvida para manipular e consultar dados relacionados aos indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards.
+
 ### [Marvel Characters Search](https://github.com/carolsauhi/marvel-search)  
 Uma aplicação web que permite buscar personagens da Marvel e exibir informações detalhadas, utilizando a API da Marvel.  
 
