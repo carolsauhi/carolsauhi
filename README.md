@@ -18,7 +18,7 @@ Este projeto é uma API RESTful desenvolvida para manipular e consultar dados re
 ### [Marvel Characters Search](https://github.com/carolsauhi/marvel-search)  
 Uma aplicação web que permite buscar personagens da Marvel e exibir informações detalhadas, utilizando a API da Marvel.  
 
-### [Project Travelgram](https://github.com/carolsauhi/travelgram)  
+### [Project Travelgram](https://github.com/carolsauhi/project-travelgram)  
 Um projeto voltado para o compartilhamento de experiências de viagem, desenvolvido em HTML.  
 
 ### [Formulário de Matrícula](https://github.com/carolsauhi/formulario-matricula)  
