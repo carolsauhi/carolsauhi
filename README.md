@@ -6,6 +6,9 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação, com foco em desen
 
 ## 🚀 Principais Projetos  
 
+### [Hairday](https://github.com/carolsauhi/hairday-template/tree/main)
+Este projeto teve como objetivo a criação e utilização de uma API usando json-server.
+
 ### [FrontEnd - Golden Raspberry Awards](https://github.com/carolsauhi/golden-raspberry-awards_front-end)
 Este projeto foi desenvolvido em Angular CLI para criar uma aplicação interativa com dois componentes principais: Dashboard e Movie List.
 
