@@ -21,13 +21,13 @@ Uma aplicação web que permite buscar personagens da Marvel e exibir informaç�
 ### [Project Travelgram](https://github.com/carolsauhi/project-travelgram)  
 Um projeto voltado para o compartilhamento de experiências de viagem, desenvolvido em HTML.  
 
-### [Formulário de Matrícula](https://github.com/carolsauhi/formulario-matricula)  
+### [Formulário de Matrícula](https://github.com/carolsauhi/projeto-formulario-matricula)  
 Um formulário simples e funcional, ideal para fins educacionais, destacando boas práticas no uso de HTML.  
 
-### [Portal de Notícias](https://github.com/carolsauhi/portal-noticias)  
+### [Portal de Notícias](https://github.com/carolsauhi/projeto-portal-noticias)  
 Um site de notícias estruturado, desenvolvido para explorar e demonstrar habilidades em criação de interfaces informativas.  
 
-### [Encurtador de URLs](https://github.com/carolsauhi/url-shortener)  
+### [Encurtador de URLs](https://github.com/carolsauhi/urlShortener)  
 Ferramenta funcional para encurtar URLs, criada para simplificar o compartilhamento de links.  
 
 ### [Projeto Zingen](https://github.com/carolsauhi/projeto-zingen)  
