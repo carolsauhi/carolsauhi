@@ -30,7 +30,7 @@ Um site de notícias estruturado, desenvolvido para explorar e demonstrar habili
 ### [Encurtador de URLs](https://github.com/carolsauhi/url-shortener)  
 Ferramenta funcional para encurtar URLs, criada para simplificar o compartilhamento de links.  
 
-### [Projeto Zingen](https://github.com/carolsauhi/zingen)  
+### [Projeto Zingen](https://github.com/carolsauhi/projeto-zingen)  
 Um projeto CSS com foco em design de interfaces e experimentação com animações.  
 
 ---
