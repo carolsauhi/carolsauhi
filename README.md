@@ -6,6 +6,9 @@ Sou uma desenvolvedora apaixonada por tecnologia e inovação, com foco em desen
 
 ## 🚀 Principais Projetos  
 
+### [Heros & Villains](https://github.com/carolsauhi/heros-and-villains)
+Um projeto React criado para explorar o uso de APIs externas e aprimorar habilidades em desenvolvimento front-end. Inspirado no universo dos super-heróis e vilões, este aplicativo permite buscar personagens e exibir informações detalhadas de forma interativa.
+
 ### [Hairday](https://github.com/carolsauhi/hairday-template/tree/main)
 Este projeto teve como objetivo a criação e utilização de uma API usando json-server.
 
