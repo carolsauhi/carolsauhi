@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Carol Sauhi  
 
-Sou uma desenvolvedora apaixonada por tecnologia e inovação, com foco em desenvolvimento web e mobile. Minhas habilidades principais incluem JavaScript, HTML, CSS e Python, além de conhecimentos em automação de tarefas. Este portfólio é uma coletânea dos meus projetos, onde busco resolver problemas e criar soluções práticas para o dia a dia.  
+Sou uma desenvolvedora apaixonada por tecnologia e inovação, com foco em desenvolvimento web. Minhas habilidades principais incluem JavaScript, HTML e CSS, além de conhecimentos em automação de tarefas usando Python. Este portfólio é uma coletânea dos meus projetos, onde busco resolver problemas e criar soluções práticas para o dia a dia.  
 
 ---
 
